@@ -9,5 +9,7 @@ Useful commands:
 * Start (use for hot reloads while deving): `npm start`
 * Make a Production Build: `npm run build`
 
+### Image of design:
+![Image of Zach Romano's React Quiz](./react-quiz-screenshot.png)
 
 Made by [Zach Romano](https://zromano.com)
